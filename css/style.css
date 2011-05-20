@@ -153,3 +153,26 @@ p {
   padding:0;
 }
 
+
+
+
+
+input, textarea {
+  display:block;
+  margin: 0 0 15px 0;
+  width: 100%;
+  border: 1px solid #ccc;
+}
+
+input {
+  min-height: 25px;
+}
+textarea {
+  min-height: 150px;
+}
+
+label {
+  color: #555;
+  margin-bottom: 5px;
+  display:block;
+}
